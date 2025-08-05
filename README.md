@@ -1,6 +1,6 @@
-# Eduardo Piazza | Desenvolvedor Front-End
+# Eduardo Piazza | Desenvolvedor Full Stack
 
-**`Desenvolvedor Front-End Junior`**
+**`Desenvolvedor Full Stack Junior`**
 
 <div align="center">
   
@@ -14,7 +14,7 @@
 const piazza = {
   idade: 18,
   localização: "Porto Alegre, RS - Brasil",
-  experiência: "+1 ano como Desenvolvedor Front-End",
+  experiência: "+1 ano como Desenvolvedor Full Stack",
   habilidades: ["React", "Node.js", "TypeScript", "JavaScript", "PostgreSQL"],
   paixões: ["Resolver problemas complexos", "Código limpo", "Desenvolvimento web"],
   hobbies: ["Desenvolver sites para lojas", "Desenvolver portfólios", "Aprender novas tecnologias"]
@@ -25,7 +25,7 @@ const piazza = {
 
 <div align="center">
   
-### 🎨 Front-end
+### 🎨 Full Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,7 +57,7 @@ const piazza = {
 
 ## 👨💻 Experiência Profissional
 
-### 💼 Desenvolvimento Front-End Junior
+### 💼 Desenvolvimento Full Stack Junior
 - **+1 ano** construindo aplicações web completas
 - Implementação de boas práticas e padrões de código
 
