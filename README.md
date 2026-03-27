@@ -12,10 +12,10 @@
 
 ```javascript
 const piazza = {
-  idade: 18,
+  idade: 19,
   localização: "Porto Alegre, RS - Brasil",
   experiência: "+1 ano como Desenvolvedor Full Stack",
-  habilidades: ["React", "Node.js", "TypeScript", "JavaScript", "PostgreSQL"],
+  habilidades: ["React", "Node.js", "TypeScript", "JavaScript", "PostgreSQL, Python, LLM"],
   paixões: ["Resolver problemas complexos", "Código limpo", "Desenvolvimento web"],
   hobbies: ["Desenvolver sites para lojas", "Desenvolver portfólios", "Aprender novas tecnologias"]
 }
