@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+Jr.+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Python+%7C+Django;Porto+Alegre%2C+RS+%F0%9F%87%A7%F0%9F%87%B7;19+anos+%7C+Agromai+%7C+UERGS;+900%2B+commits+no+GitHub+de+trabalho)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+Jr.+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Python+%7C+FastAPI;Porto+Alegre%2C+RS+%F0%9F%87%A7%F0%9F%87%B7;19+anos+%7C+Agromai+%7C+UERGS;+900%2B+commits+no+GitHub+de+trabalho)](https://git.io/typing-svg)
 
 </div>
 
@@ -63,11 +63,11 @@ const eduardo = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,nodejs,fastapi,celery,docker,postgres,git&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,FastAPI,nodejs,fastapi,celery,docker,postgres,git&perline=8&theme=dark)](https://skillicons.dev)
 
 | Tecnologia | Nível |
 |---|---|
-| Python + Django | ████████████░ Avançado |
+| Python + FastAPI | ████████████░ Avançado |
 | Celery (async tasks) | █████████░░░ Sólido |
 | Node.js / FastAPI | ████████░░░░ Sólido |
 | Docker | ████████░░░░ Sólido |
@@ -150,7 +150,7 @@ const eduardo = {
 
 ```
 2024 – atual  │  Desenvolvedor Full-Stack Jr. @ Agromai
-              │  React · TypeScript · Python · Django · Celery · Docker
+              │  React · TypeScript · Python · FastAPI · Celery · Docker
               │  +900 commits no repositório corporativo
               │
 2024 – atual  │  Engenharia da Computação @ UERGS
