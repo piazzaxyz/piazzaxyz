@@ -63,7 +63,7 @@ const eduardo = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,FastAPI,nodejs,fastapi,celery,docker,postgres,git&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,nodejs,docker,postgres,redis,git&perline=8&theme=dark)](https://skillicons.dev)
 
 | Tecnologia | Nível |
 |---|---|
@@ -81,7 +81,10 @@ const eduardo = {
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,vscode,cursor,github,figma&perline=8&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,vscode,github,figma,linux&perline=8&theme=dark)](https://skillicons.dev)
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
@@ -104,14 +107,18 @@ const eduardo = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piazzaxyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&custom_title=GitHub%20Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piazzaxyz&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&custom_title=Linguagens%20Favoritas"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piazzaxyz&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piazzaxyz&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piazzaxyz&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=piazzaxyz&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" width="500"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piazzaxyz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=2d1b69" width="100%"/>
 
 </div>
 
@@ -127,9 +134,9 @@ const eduardo = {
 
 <div align="center">
 
-### 🔐 Horus — TUI de QA & Cybersegurança
+### 𓂀 Horus — TUI de QA & Cybersegurança
 
-[![Horus](https://github-readme-stats.vercel.app/api/pin/?username=piazzaxyz&repo=horus&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)](https://github.com/piazzaxyz/horus)
+[![𓂀 Horus TUI](https://img.shields.io/badge/𓂀%20Horus%20TUI-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0d1117&color=a78bfa)](https://github.com/piazzaxyz/horus)
 
 > Terminal User Interface focada em **Quality Assurance** e **Cybersegurança**.
 > Construída com Python, pensada para automação de testes e análise de segurança diretamente no terminal.
