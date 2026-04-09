@@ -17,7 +17,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pzdeveloper-sage.vercel.app/#home)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-siqueira-de-melo-piazza/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piazzadev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudupiazza16@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piazza.vsc@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piazzaxyz)
 
 </div>
@@ -171,7 +171,7 @@ Se você tem um projeto interessante ou uma oportunidade, vamos conversar!
 
 [![LinkedIn](https://img.shields.io/badge/Me%20adiciona%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-siqueira-de-melo-piazza/)
 [![Instagram](https://img.shields.io/badge/Me%20segue%20no%20Insta-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piazzadev/)
-[![Email](https://img.shields.io/badge/Manda%20um%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudupiazza16@gmail.com)
+[![Email](https://img.shields.io/badge/Manda%20um%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piazza.vsc@gmail.com)
 
 </div>
 
